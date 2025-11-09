@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe with Reinforcement Learning.
+# 🎮 Tic-Tac-Toe with Reinforcement Learning
 
 A retro arcade-style Tic-Tac-Toe game powered by Q-Learning reinforcement learning algorithm. Play against an AI agent that learns and improves through self-play!
 
